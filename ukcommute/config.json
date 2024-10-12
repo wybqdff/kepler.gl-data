@@ -194,7 +194,10 @@
         "building": false,
         "water": true,
         "land": true
-      }
+      },
+  "legend": {
+    "position": "bottom-right",
+    "enabled": true
     }
   }
 }
